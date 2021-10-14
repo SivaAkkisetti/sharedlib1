@@ -2,6 +2,6 @@ def call(name){
   echo "hi ${name}, How r u?"
   echo "r u ${name}?"
 }
-def call(name1){
+def call1(name){
   echo "Welcome ${name1}"
 }
